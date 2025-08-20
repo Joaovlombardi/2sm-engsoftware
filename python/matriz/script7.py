@@ -7,6 +7,10 @@ def criar_matriz_zeros(m, n):
         for j in range(n):
             linha.append(0)
 
-        linha [j - i] = 1 # e resultado do número subtraido é a posição do 1
+        linha [j - i] = 1
         matriz.append(linha)
-        print(matriz)
+    return matriz
+
+matriz = criar_matriz_zeros(5, 5)
+for linha in matriz:
+    print(linha)
