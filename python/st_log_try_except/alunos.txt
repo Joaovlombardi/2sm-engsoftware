@@ -1,0 +1,4 @@
+Ana, 8
+João, 5
+Maria, 7
+Pedro, 4

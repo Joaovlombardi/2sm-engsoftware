@@ -1,0 +1,2 @@
+Média: 20.0
+Inválidos: 2
